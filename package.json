@@ -1,0 +1,22 @@
+{
+  "name": "resol",
+  "version": "0.0.0",
+  "description": "Resolves node modules and prints their absolute path",
+  "bin": {
+    "resol": "lib/resolve.js"
+  },
+  "main": "lib/resolve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstade/resol.git"
+  },
+  "author": "Marcus Stade <marcus@stade.se> (http://madebystade.se/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstade/resol/issues"
+  },
+  "homepage": "https://github.com/mstade/resol#readme"
+}
